@@ -1,0 +1,17 @@
+Raport - wymagania:
+
+- musi być pisemnie (może być z komputera, może być własnoręcznie, lub mieszanie)
+
+1. Co to za wzorzec - definicja
+2. Jaki to typ (kreacja, struktura, zachowanie) - po polsku i po angielsku
+3. UML schemat tak jak w  naszych ustaleiach (dziedziczenie, zależności, abstrakcja)
+4. Prosty przykład użycia
+5. Wnioski, zalety i wady wzorca
+6.Przykład użycia z życia wzięty :P
+
+Macie do zrobienia:
+- fasada
+- kompozyt
+- adapter
+- fabryka abstrakcyjna
+- dekorator
